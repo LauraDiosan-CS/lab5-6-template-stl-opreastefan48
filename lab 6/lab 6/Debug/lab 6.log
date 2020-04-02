@@ -1,0 +1,21 @@
+﻿  Camera.cpp
+C:\Users\oprea\source\repos\lab 6\lab 6\Camera.h(28,34): error C2535: 'Camera &Camera::operator =(const Camera &)': member function already defined or declared
+C:\Users\oprea\source\repos\lab 6\lab 6\Camera.h(17): message : see declaration of 'Camera::operator ='
+  lab 6.cpp
+  repo.cpp
+C:\Users\oprea\source\repos\lab 6\lab 6\Camera.h(28,34): error C2535: 'Camera &Camera::operator =(const Camera &)': member function already defined or declared
+C:\Users\oprea\source\repos\lab 6\lab 6\Camera.h(17): message : see declaration of 'Camera::operator ='
+C:\Users\oprea\source\repos\lab 6\lab 6\repo.cpp(80,38): error C2065: 's': undeclared identifier
+C:\Users\oprea\source\repos\lab 6\lab 6\repo.cpp(103,17): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\oprea\source\repos\lab 6\lab 6\repo.cpp(104,26): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Camera'
+C:\Users\oprea\source\repos\lab 6\lab 6\repo.cpp(104,26): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+  TestsRepo.cpp
+C:\Users\oprea\source\repos\lab 6\lab 6\Camera.h(28,34): error C2535: 'Camera &Camera::operator =(const Camera &)': member function already defined or declared
+C:\Users\oprea\source\repos\lab 6\lab 6\Camera.h(17): message : see declaration of 'Camera::operator ='
+C:\Users\oprea\source\repos\lab 6\lab 6\TestsRepo.cpp(22,48): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Camera'
+C:\Users\oprea\source\repos\lab 6\lab 6\TestsRepo.cpp(22,48): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\oprea\source\repos\lab 6\lab 6\TestsRepo.cpp(30,49): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Camera'
+C:\Users\oprea\source\repos\lab 6\lab 6\TestsRepo.cpp(30,49): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\oprea\source\repos\lab 6\lab 6\TestsRepo.cpp(53,47): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Camera'
+C:\Users\oprea\source\repos\lab 6\lab 6\TestsRepo.cpp(53,47): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+  Generating Code...
