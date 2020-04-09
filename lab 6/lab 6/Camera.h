@@ -14,7 +14,6 @@ public:
 	Camera(const char*,const char*, int,bool);
 	Camera(const Camera&);
 
-	Camera& operator=(const Camera&);
 
 	void setLibera(bool);
 	void setTip(const char*);
